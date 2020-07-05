@@ -6,6 +6,12 @@ Se utiliza un custom Hook llamado useFetchGifs().
 
 Implementa un ejemplo de loading con animateCSS.
 
+### Build
+
+```bash
+npm run build
+```
+
 ### Bonus
 
 Puedes levantar un servidor local muy liviano con:
